@@ -29,3 +29,17 @@ java -jar ./BurpLoaderKeygen.jar
 
 7.注册完成
 
+#快捷启动
+```bash
+apt-get remove burpsuite  //卸载社区版
+
+cd /usr/bin
+
+touch burpsuite
+
+vi burpsuite # 在文件中输入以下内容
+
+     #!/bin/bash
+    <粘贴BurpLoaderKeygen中【run】的内容，建议更改为绝对路径>  //删除所有的" "
+
+```
