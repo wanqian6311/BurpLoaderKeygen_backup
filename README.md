@@ -15,6 +15,9 @@ cd /usr/burpsuite_pro
 java -jar ./BurpLoaderKeygen.jar
 ```
 
+BurpLoaderKeygen.jar和burpsuite_pro.jar在一个文件夹
+
+
 1.【run】
 
 2.启动BurpSuitePro
